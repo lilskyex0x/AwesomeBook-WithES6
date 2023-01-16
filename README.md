@@ -49,7 +49,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Coming soon](https://github.com/anthonymr/)
+- [Awesome Books](https://lilskyex0x.github.io/AwesomeBook-WithES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
