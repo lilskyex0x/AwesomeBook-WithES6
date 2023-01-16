@@ -23,6 +23,7 @@
   - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
+- [🔭 Key Features](#Key-features)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -108,10 +109,16 @@ You can deploy this project using: GitHub but if you want to deploy make sure yo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Key Features <a name="Key-features"></a>
 
 - [ ] **Contact section**
 - [ ] **Navigation functionality**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- Nothing At the moment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
